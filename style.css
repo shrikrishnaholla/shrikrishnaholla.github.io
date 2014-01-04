@@ -1,0 +1,28 @@
+
+
+body {
+	background-image:url('shrikrishnaholla.jpg');
+	background-color:#484848;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:70% 15%;
+}
+
+.name {
+	position: fixed;
+	left : 10px;
+	top: 20%;
+	width: 50%;
+}
+
+.links {
+	position: absolute;
+	left : 20px;
+	top: 40%;
+	width: 50%;
+}
+
+.button {
+	padding: 10px;
+}
+
