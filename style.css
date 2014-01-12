@@ -18,11 +18,12 @@ body {
 .links {
 	position: absolute;
 	left : 20px;
-	top: 40%;
+	top: 45%;
 	width: 50%;
 }
 
 .button {
 	padding: 10px;
+	margin-right: 10px;
 }
 
